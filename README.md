@@ -5,8 +5,8 @@ Youtube Livestream: [Seccon](https://www.youtube.com/watch?v=VXaROnAmAiY)
 
 ## Pwn:
 
-- [noalloca](noalloca/README.md)
+- [noalloca](noalloca/)
 
-- [alloca](alloca/README.md)
+- [alloca](alloca/)
 
-- [constalloca](constalloca/README.md)
+- [constalloca](constalloca/)
